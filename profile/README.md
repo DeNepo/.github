@@ -2,7 +2,7 @@
 
 Make best practice common practice by connecting CE researchers, educators and developers to build what learners need.
 
-![de nepo value propositions](./de-nepo-value-propositions.svg)
+![de-nepo-value-propositions](https://user-images.githubusercontent.com/18554853/220601176-63a86aff-3011-40f4-aa54-ef6b2b551298.svg)
 
 ### Open Education
 
