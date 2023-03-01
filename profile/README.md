@@ -17,3 +17,7 @@ We also want to drive adoption of more exploratory investigation into ways to in
 We want to encourage open research and replication in Computing Education by making prototypes used in studies immediately available to all researchers under an open license. Researchers can share their research questions, experimental designs and interventions before running experiments and their data afterwards, all in a single repository.
 
 Replications following the same or different methodologies can be tracked via forks, making related research more cumulative and navigable.
+
+---
+
+Learn more about the ideas behind DeNepo [right here](https://evancole.be/#/page/De%20Nepo)
