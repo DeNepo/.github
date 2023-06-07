@@ -20,4 +20,4 @@ Replications following the same or different methodologies can be tracked via fo
 
 ---
 
-Learn more about the ideas behind DeNepo [right here](https://evancole.be/#/page/De%20Nepo)
+Learn more about the ideas behind DeNepo [right here](https://evancole.be/notes/#/page/De%20Nepo)
